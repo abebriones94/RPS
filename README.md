@@ -1,1 +1,1 @@
-# RPS
+First JavaScript Project on The Odin Project! 
